@@ -1,0 +1,15 @@
+name:tutorial
+channels:
+ -defaults
+dependencies:
+ -pip:
+  -os
+  -numpy
+  -mlflow
+  -pandas
+  -sklearn
+  -shap
+  -matplotlib
+  -seaborn
+  -plotly
+  -opendatasets
