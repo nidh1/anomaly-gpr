@@ -13,3 +13,4 @@ dependencies:
   -seaborn
   -plotly
   -opendatasets
+  -nbconvert
