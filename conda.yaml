@@ -12,5 +12,5 @@ dependencies:
   -matplotlib
   -seaborn
   -plotly
-  -opendatasets
   -nbconvert
+  -shutil
