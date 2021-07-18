@@ -1,0 +1,7 @@
+name: tutorial
+
+conda_env: conda.yaml
+
+entry_points:
+  main:
+    command: "jupyter nbconvert --to notebook --inplace --execute anomaly_detection.ipynb"
